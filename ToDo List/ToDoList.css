@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background-color: #F4F1EE;
+}
+input{
+    font-size: 1.5rem;
+    border-radius: 100px;
+    padding: 5px 15px;
+    border: none;
+    transition: all 0.3s linear;
+}
+h1{
+  font-family: "Anton SC", sans-serif;
+  font-size: 4rem;
+  color: rgb(62, 60, 60);
+}
+.button{
+    font-size: 1.25rem;
+    border-radius: 100px;
+    font-family: "Montserrat", sans-serif;
+    padding: 10px 15px;
+    border: none;
+    background-color: #2D2D2D;
+    color: white;
+    margin-left: 0.5rem;
+    transition: all 0.25s linear;
+}
+.delete{
+    font-size: 0.8rem;
+    font-family: "Montserrat", sans-serif;
+    border-radius: 100px;
+    padding: 8px 12px;
+    border: none;
+    background-color: #2D2D2D;
+    color: white;
+    margin: 0.5rem;
+    transition: all 0.25s linear;
+}
+.li{
+    font-size: 25px;
+    font-family: "Funnel Display", sans-serif;
+    text-align: center;
+}
+input:hover{
+    box-shadow: 0 1.5px 10px rgba(0,0,0,0.2);
+}
+.button:hover{
+    font-size: 1.35rem;
+}
+.delete:hover{
+    font-size: 0.85rem;
+}
