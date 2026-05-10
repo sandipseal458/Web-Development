@@ -25,14 +25,6 @@ The goal is to build a strong foundation in web development through hands-on pra
 
 ---
 
-## How to Run Any Project
-
-1. Download or clone this repository
-2. Open the project folder
-3. Double-click `ToDoList.html` to open it in your browser
-
----
-
 ## Contact
 
 - **GitHub:** [sandipseal458](https://github.com/sandipseal458)
