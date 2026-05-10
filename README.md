@@ -17,9 +17,9 @@ The goal is to build a strong foundation in web development through hands-on pra
 
 ## Projects
 
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| [ToDo List](./ToDo%20List/) | Add, complete and delete tasks | HTML, CSS, JS |
+| # | Project | Description | Tech Used |
+|---|---------|-------------|-----------|
+|P01| [ToDo List](./ToDo%20List/) | Add, complete and delete tasks | HTML, CSS, JS |
 
 *More projects will be added as I keep learning.*
 
@@ -37,3 +37,4 @@ The goal is to build a strong foundation in web development through hands-on pra
 
 - **GitHub:** [sandipseal458](https://github.com/sandipseal458)
 - **Email:** sandipseal458@gmail.com
+- **LinkedIn:** [Sandip Seal](https://www.linkedin.com/in/sandip-seal/)
